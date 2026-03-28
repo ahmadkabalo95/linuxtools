@@ -6,3 +6,5 @@ glances
 ncdu
 rg the replacement of grep
 bat
+
+linux tool for audit which is lynis
